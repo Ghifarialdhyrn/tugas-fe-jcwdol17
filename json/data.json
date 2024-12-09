@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzYzMjgzL2MzYjZhODdkMzJjYzhlMzNlZWQ3NTMwMTI5ZjRmYWZiLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMH19fQ==",
+      "product_name": "Nike Dunk Low Cacao Wow (Women's)",
+      "description": "Nike did it again on July 28, 2023, when they dropped the Dunk Low in the enticing Cacao Wow colorway. This shoe is a surefire hit for those who crave unique kicks. ",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "img": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzMzNjgyLzNlMjU2NWRhZDdlMGQ2OTZjM2UxMDdkMzdiMWEzMTM0LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMH19fQ==",
+      "product_name": "New Balance 530 Ivory",
+      "description": "The 530 sneaker is a throwback of one of New Balance's classic running shoes. This casual kick combines everyday style with modern tech.",
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "img": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzM3NDMvYzJlMjRhYWMzMmZlZmE1NDQwM2FjZjdiZDUxYWNmMGMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNDAwfX19",
+      "product_name": "Adidas Samba OG Cloud White Core Black",
+      "description": "Born on the soccer field, the Samba is a timeless icon of street style. These shoes stay true to their legacy with a soft leather upper and suede overlays.",
+      "price": 1430
+    },
+    {
+      "img": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzMxNjQ3L2UxMTk3ZGE4YTlkODQ2ZmVmOWEwNjYzMGIzMTBkZTc2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMH19fQ==",
+      "product_name": "The New Balance 530 White Silver Navy",
+      "description": "The New Balance 530 White Silver Navy features a white mesh upper with metallic silver and white leather overlays. ",
+      "price": 1240,
+      "id": 4
+    },
+    {
+      "product_name": "Puma Palermo Alpine Snow",
+      "description": "\"Palermo\" is derived from \"Palermo\", a place name in the northwest of Sicily, Italy, and is a classic model that represents the terrace style of the 1980s. ",
+      "price": 1120,
+      "img": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzEwODM0Ni8yMDgwMjU0MzQwYjY5YjYzODk0NGZkZmRlMmUzZmUyYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE0MDB9fX0=",
+      "id": 5
+    },
+    {
+      "product_name": "Nike P-6000 Flat Pewter",
+      "description": "We thoroughly check every purchase you make and applies our company's guarantee to the product's legitimacy.",
+      "price": 1280,
+      "img": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzcyODg5LzQ1ZDZjM2RjOTEzNTY3NjEyYjcwZjNlZGJiMzk1YzAwLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMH19fQ==",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin"
+    }
+  ]
+}
